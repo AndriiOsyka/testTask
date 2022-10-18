@@ -1,0 +1,25 @@
+.canvasComponent {
+    width: 100%;
+    height: 600px;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.canvas {
+    border: 3px solid red;
+    width: 1000px;
+    height: 400px;
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 20px 30px;
+    border: 1px solid red;
+    border-radius: 3px;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
